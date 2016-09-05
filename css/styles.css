@@ -15,7 +15,7 @@ body
   width: 80%;
   background-color: #cc0000;
   margin: 0 auto;
-  background-image: url("images/strawberry-bground.jpg");
+  background-image: url(http://laverne.edu/laverne-magazine/files/2013/07/130403_8491_LVM_KFM.jpg);
 
 }
 
@@ -24,6 +24,7 @@ body
   height: 300px;
   width: 30%;
   background-color: #ff4f4f;
+  opacity:0.9;
   float:left;
   margin: 13px;
   padding: 2%;
@@ -33,28 +34,37 @@ body
 {
   float: right;
   margin: 13px;
+  background-color:#ff4f4f;
+  opacity:0.9;
 }
 
 #locations
 {
   float: right;
   margin: 13px;
+  margin-top:1.5px;
+  background-color:#ff4f4f;
+  opacity:0.9;
 }
 
 #niceRecipies
 {
   float: right;
-  margin-top: 12px;
+  margin:15px;
+  margin-top:1.5px;
   height:155px;
-  width:619px;
+  width:730px;
+  opacity:0.9;
 }
 
 #getToKnow
 {
   margin:14px;
+  margin-top:1.5px;
   float:left;
-  width:345px;
+  width:400px;
   height:155px;
+  opacity:0.9;
 }
 
 header
@@ -66,7 +76,7 @@ header
   text-align: center;
   float: left;
   margin: 2%;
-  background-image:url("images/strawberry-explode.png");
+  background-image:url("https://bridgingthegap.org/wp-content/uploads/2016/02/Blog_strawberries.jpg");
 }
 
 nav
